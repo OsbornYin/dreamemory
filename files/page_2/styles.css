@@ -1,6 +1,10 @@
 ﻿body {
   margin:0px;
-  background-image:none;
+  background-image:url('../../images/home/u23.png');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:364px 140px;
   position:static;
   left:auto;
   width:10px;
